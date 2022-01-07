@@ -1,2 +1,2 @@
 User-Agent: *
-#DaumWebMasterTool:8490a5b15e46b0d02c17598a206833ac58173bcc7837c7122eb0f062147bd3a0:JA1NBTPTysW6Cks+WGoKew==
+#DaumWebMasterTool:0598fb8817705e978ec5dd3f9a4f8f9d2ec85dfd3cba01acd03f94d8b482396e:ncFfz8abWMivFe3r6MhoEA==
